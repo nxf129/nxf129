@@ -1,0 +1,6 @@
+#!/bin/bash
+#上传jekyll文件
+git add .
+git commit -m "first post"
+git remote add origin https://github.com/nxf129/jekyll_demo.git
+git push -f origin gh-pages
