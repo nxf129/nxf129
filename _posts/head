@@ -1,0 +1,7 @@
+--- 
+layout: default 
+title: Hello World 
+---
+<section role="banner"> 
+<img src="img/banner.jpg" /> 
+</section>
