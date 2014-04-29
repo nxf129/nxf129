@@ -1,3 +1,2 @@
-permalink: /:year-:month-:day-:title.html 
-auto: true
-baseurl: /
+markdown: rdiscount
+pygments: true
